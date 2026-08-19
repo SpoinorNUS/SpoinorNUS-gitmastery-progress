@@ -1,0 +1,18 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786900854.010758,
+    "completed_at": 1786900856.506501,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786853598.692314,
+    "completed_at": 1786853600.765976,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
